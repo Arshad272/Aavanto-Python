@@ -4,7 +4,7 @@ Hello all, In this repository you will find all the programs which we discuss in
 
 ## Important Links
 
-Register Here -> [python 2023](https://aavanto.com/python)
+Register Here -> [Python 2023](https://aavanto.com/python)
 
 WhatsApp Group -> [Link](https://chat.whatsapp.com/BcNsJHMc3z1A6ga5yZXTCx)
 
