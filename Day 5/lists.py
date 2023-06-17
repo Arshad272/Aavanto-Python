@@ -3,6 +3,7 @@
 # Lists are represented using Square Braces
 # The elements inside lists are seperated by comma(,)
 # Lists are heterogeneous, which means we can store different types of data inside lists
+# Lists are mutable -> we can modify
 
 # Syntax
 
