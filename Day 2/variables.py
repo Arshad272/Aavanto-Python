@@ -12,6 +12,7 @@ print(a1b2)
 
 # 1. You cannot use special charecters in variable names except underscore ( _ )
 # 2. We cannot begin a variable name with number
+# 3. We cannot use keywords as variable names
 
 # Dynamically typed programming language
 
