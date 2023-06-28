@@ -27,11 +27,6 @@ s = {1,546,65,56,50}
 #         print("*", end = " ") 
 #     print() 
 
-# PYRAMID
-n = int(input("Enter number of lines: "))
-for i in range(1, n+1):
-    for j in range(1, i+1):
-        
 
 
 
